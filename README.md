@@ -1,4 +1,5 @@
 Face Detection with YOLOv8 and OpenCV
+
 📸 Repository ini berisi script Python untuk mendeteksi wajah dalam sebuah gambar menggunakan YOLOv8 dari library Ultralytics dan OpenCV. Proyek ini dirancang untuk memberikan bounding box pada setiap wajah yang terdeteksi dan menampilkan hasilnya menggunakan Matplotlib.
 
 ✨ Fitur Utama
